@@ -4,6 +4,8 @@ This repository contains Jupyter Notebooks which are being used inside of the pr
 
 Due to various limitation of Tableau Public, multiple data cleaning methods have been used in order to limit the Tableau data source number (Tableau Public limits the max number of records can operate <= 15,000,000) of records and accelerate the performance (avoid operations take longer then 1 minute).
 
+For Project 02, since it's a webpage-based project, additional data clean up has been performed in order to maintain data file size within a limitation in order to avoid long downloading time.
+
 ## 1. Prerequisite 
 
 Please download following public datasets and put them into designated folders.
