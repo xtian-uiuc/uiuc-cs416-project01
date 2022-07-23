@@ -1,4 +1,4 @@
-# UIUC CS 416 Data Visualization - Project 01
+# UIUC CS 416 Data Visualization - Project 01 & Project 02
 
 This repository contains Jupyter Notebooks which are being used inside of the project for data cleaning. 
 
@@ -20,6 +20,12 @@ URL: [https://datatopics.worldbank.org/world-development-indicators/](https://da
 
 Folder: `./data/world_bank`
 
+### 1.3 WHO COVID-19 Vaccination Data
+
+URL: [https://covid19.who.int/data](https://covid19.who.int/data)
+
+Folder: `./data/who`
+
 ## 2. Dependencies
 
 Please make sure install the following Python libraries before execute notebooks:
@@ -34,7 +40,12 @@ Please follow the list to run nodebooks in order:
 - `01_data_processing.ipynb`
 - `02_calculate_delta.ipynb`
 - `03_join_tables.ipynb`
+- `04_data_processing_part2.ipynb`
+- `05_additional_data.ipynb`
+- `06_country_data.ipynb`
 
-Use file `covid_data_v4.csv` in the output folder as the data source in Tableau.
+Use file `covid_data_v4.csv` in the output folder as the data source in Tableau for Project 01. Or:
+
+Copy files `country_data_v2.csv`, `covid_data_v5.csv`, and `wdi_data_v1.csv` in the output folder to the `./data/` folder in Project 02 to use them as data source. 
 
 
